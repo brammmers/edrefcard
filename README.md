@@ -1,4 +1,4 @@
-# EDBindsRef
+# EDRefCard
 A reworked utility to generate printable reference cards for Elite Dangerous controller .binds files
 
 This website was heavily inspired by CMDR VerticalBlank's EDRefCard site, available here: http://edrefcard.info, GitHub source: https://github.com/richardbuckle/EDRefCard (please check that out for credits etc.)
